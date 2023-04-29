@@ -2,11 +2,14 @@
 
 ## About
 
-Share the love with Minetest! If you want to contribute, you've got two options here:
+Share the love with Minetest!  
+In each zip file you'll find an .svg, .pdf and .png version. Use .svg to make edits and .pdf to print it!
+
+If you want to contribute, you can:
 * translate it and open a MR (please provide all the files that you find in the other ZIPs)
 * print it and set it up all around you
   
-The current artwork is under CC BY-SA 4.0 and it's made by Zughys
+The current artwork is under CC BY-SA 4.0 and it's made by Zughy
 
 ## Credits 
 
